@@ -16,7 +16,7 @@ namespace myProgram
         int tasted = rng.Next(conditions.Count);
     
         Console.WriteLine($"this {foods[eat]} tasted {conditions[tasted]}!");
-        }while(Console.ReadKey().Key == ConsoleKey.Spacebar);
+        }while(Console.ReadKey(true).Key == ConsoleKey.Spacebar);
         }
     }
 }
