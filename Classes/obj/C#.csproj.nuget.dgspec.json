@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youcef\\Desktop\\C#\\C#.csproj": {}
+    "C:\\Users\\Youcef\\Desktop\\C#\\Classes\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youcef\\Desktop\\C#\\C#.csproj": {
+    "C:\\Users\\Youcef\\Desktop\\C#\\Classes\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcef\\Desktop\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\Youcef\\Desktop\\C#\\Classes\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\Youcef\\Desktop\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\Youcef\\Desktop\\C#\\Classes\\C#.csproj",
         "packagesPath": "C:\\Users\\Youcef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcef\\Desktop\\C#\\obj\\",
+        "outputPath": "C:\\Users\\Youcef\\Desktop\\C#\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Youcef\\AppData\\Roaming\\NuGet\\NuGet.Config"
